@@ -17,7 +17,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project).
 ## Team Members
 
 - Person 1: one sentence about you!
-- Person 2: one sentence about you!
+- Geroge Hsu: Love Basketball
 - Kojo Clarke: Into Finance, and always tired.
 
 ## Images
