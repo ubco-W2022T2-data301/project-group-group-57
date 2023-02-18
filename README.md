@@ -16,7 +16,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project).
 
 ## Team Members
 
-- Person 1: one sentence about you!
+- Adam Goebel: I have a love/hate relationship with excel
 - Geroge Hsu: Love Basketball
 - Kojo Clarke: Into Finance, and always tired.
 
